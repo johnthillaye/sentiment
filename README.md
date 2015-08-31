@@ -13,7 +13,7 @@ Sentiment is a Node.js module that uses the [AFINN-111](http://www2.imm.dtu.dk/p
 
 ### Installation
 ```bash
-npm install sentiment
+npm install sentiment-french
 ```
 
 ### Usage

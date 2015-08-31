@@ -1,12 +1,12 @@
 {
-  "author": "Andrew Sliwinski <andrewsliwinski@acm.org>",
-  "name": "sentiment",
-  "description": "AFINN-based sentiment analysis for Node.js",
+  "author": "John Thillaye",
+  "name": "sentiment-french",
+  "description": "AFINN-based sentiment analysis for Node.js, in French.",
   "version": "1.0.2",
-  "homepage": "https://github.com/thisandagain/sentiment",
+  "homepage": "https://github.com/johnthillaye/sentiment",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thisandagain/sentiment.git"
+    "url": "https://github.com/johnthillaye/sentiment.git"
   },
   "keywords": [
     "sentiment",
